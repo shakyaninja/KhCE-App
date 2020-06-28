@@ -1,6 +1,6 @@
-# khwopa_app
-
-A new Flutter project.
+# KhCE App
+Khwopa College of Engineering App in progress.
+Its a new Flutter App project.
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Launching App
+
+Build the app using flutter build and then run app using flutter run command.
+Make sure external mobie device or emulator device is connected to your PC.
